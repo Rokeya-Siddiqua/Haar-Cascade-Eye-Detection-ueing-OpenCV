@@ -1,0 +1,2 @@
+# Haar-Cascade-Eye-Detection-ueing-OpenCV
+OpenCV Open source computer vision library is an open source computer vision and machine learning library. It was built with a vision to provide basic infrastructure to the computer vision application.  Haar Cascade Algorithm It is a machine learning algorithm used to identify objects in image or video based on the concepts of features proposed by Paul Viola and Michael Jones in 2001.
